@@ -45,7 +45,7 @@ The scraper can collect movie-related information such as:
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the Repository
-git clone YOUR_GITHUB_REPOSITORY_URL
+  git clone YOUR_GITHUB_REPOSITORY_URL
 
 2. Navigate to the Project Folder
 cd imdb-movie-scraper
